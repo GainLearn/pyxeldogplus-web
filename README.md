@@ -19,6 +19,8 @@ Use `pyxel-standalone.html` when you want one file that can be saved, shared, or
 
 This public package is not a Node app. It does not need `npm install`, a build step, or a backend server just to open the remote.
 
+You can also use the GitHub Pages version however it likely will not work due to the dog using cleartext http. You can see the web app and try it [HERE](https://gainlearn.github.io/pyxeldogplus-web/)
+
 ### Open It Directly
 
 Double-click `index.html` or `pyxel-standalone.html` to open it in a browser.
